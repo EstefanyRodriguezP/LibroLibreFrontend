@@ -1,0 +1,32 @@
+header > nav {
+  background-color: rgb(0, 15, 51);
+}
+
+section {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+form > input {
+  padding: 5px;
+}
+
+section > div {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.card {
+  padding: 30px 20px;
+  border: 1px solid #dadada;
+  border-radius: 3px;
+}
